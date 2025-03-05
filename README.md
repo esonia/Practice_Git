@@ -9,3 +9,5 @@ Added 3rd line on the branch and is committing the changes to main branch. Till 
 Noticed the change is only on branch. Need to push this to main through UI. Lets try
 
 Couldnt find Push. Lets create another branch from Branch 1 and see if both can be pushed together
+
+Sub branch 1 - Additional line added for testing. Now see how to merge the changes to main
