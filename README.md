@@ -11,3 +11,5 @@ Noticed the change is only on branch. Need to push this to main through UI. Lets
 Couldnt find Push. Lets create another branch from Branch 1 and see if both can be pushed together
 
 Sub branch 1 - Additional line added for testing. Now see how to merge the changes to main
+
+After Merge Commit all the lines from Sub Branch is now available on branch 01. Going for further pull & Merge 
