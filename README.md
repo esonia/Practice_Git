@@ -1,5 +1,11 @@
 # Practice_Git
 
+
+
+
+
+
+
 This line is added from GUI before cloning to the local folder. Committing changes from GUI
 
 Adding Second line to see the commit to a new branch. Last time when i did the same, in UI , 3 branches shown - Active branch, Your branch and Main Branch. Lets see if its replicated 
@@ -13,3 +19,5 @@ Couldnt find Push. Lets create another branch from Branch 1 and see if both can 
 Sub branch 1 - Additional line added for testing. Now see how to merge the changes to main
 
 After Merge Commit all the lines from Sub Branch is now available on branch 01. Going for further pull & Merge 
+
+Trying conflict resolution - Didnt work changing on the main. lets try on this branch 01
